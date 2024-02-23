@@ -1,3 +1,5 @@
+.ruby-version
+enhance-ssr.wasm
 *.gem
 *.rbc
 /.config
